@@ -4,7 +4,7 @@ This repository contains **R scripts, data and analytical outputs** used to inve
 
 The repository provides a reproducible workflow covering data acquisition, data cleaning, species distribution modeling, biodiversity analyses and conservation prioritization.
 
-## Repository content
+### Repository content
 
 - **Data acquisition** – Scripts for retrieving occurrence data from online biodiversity databases using the **PlantR** package.
 - **Data cleaning and preparation** – Procedures for cleaning, filtering, validating, and preparing occurrence records.
@@ -15,6 +15,6 @@ The repository provides a reproducible workflow covering data acquisition, data 
 - **Conservation prioritization** – Identification of priority areas for the conservation of *Eugenia* species and their distributions.
 - **Results and outputs** – Tables, spatial datasets, model outputs, and other files generated throughout the analyses.
 
-# Authors and contributors
+## Authors and contributors
 
 Denardi, V.L. & Valdemarin, K.S.
